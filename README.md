@@ -1,4 +1,4 @@
-# Founder Tip Tuesday — Week of September 8, 2026
+# Founder Tip Tuesday · Week of September 8, 2026
 
 **Live deck:** <https://nemock.github.io/founder-tip-tuesday-2026-09-08/>
 **From:** [Base Reality Group](https://baserealitygroup.com) · Dave Saunders · commercialization advisory for hard-tech founders
@@ -21,7 +21,7 @@ minutes, and a site that won't spend the fifteen minutes is still just a convers
 
 ## Source
 
-- **37signals (Jason Fried)** — "$5300 in $100s: The verdict," August 28, 2026 — <https://world.hey.com/jason/5300-in-100s-the-verdict-74c41080>
+- **37signals (Jason Fried)**, "$5300 in $100s: The verdict," August 28, 2026 · <https://world.hey.com/jason/5300-in-100s-the-verdict-74c41080>
 
 ---
 
